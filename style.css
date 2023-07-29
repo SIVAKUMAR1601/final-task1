@@ -1,0 +1,275 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.container{
+    height: 100vh;
+    width: 100%;
+    padding: 20px20px;
+    
+    
+    
+}
+
+.nav-bar{
+    width: 100%;
+    height: 90px;
+    display: flex;
+    
+    background-color: black;
+
+}
+
+.header{
+    width: 50%;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px 10px;
+    font-family: Belanosima;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+
+h1{
+    color: white;
+}
+ span{
+    color:rgb(250, 143, 2);
+ }
+
+.menu-box{
+    width: 50%;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  
+    
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+li{
+    width: 50%;
+    display: inline;
+    
+    text-align: center;
+
+}
+
+
+ .img1{
+    width: 100%;
+    height: 500px;
+    padding-left: 60px;
+    padding-top: 50px;
+    background-image: url(banner-bg.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    
+ }
+
+#outstanding{
+    
+    font-size: 70px;
+    color: black;
+    font-weight: bold;
+    padding-left: 50px;
+    padding-top: 100px;
+    
+}
+
+ #coffee-shop{
+    font-size: 80px;
+    color: white;
+    font-family: Belanosima;
+    padding-left: 50px;
+
+ }
+
+ .pera{
+   padding-left: 50px;
+   color: white;
+ }
+
+ button{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+ }
+
+ #learmore-btn{
+    font-size: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 50px;
+
+ }
+
+ .about-us{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    font-family: Belanosima;
+    padding-left: 50px;
+    padding-top: 150px;
+    padding-right: 50px;
+ }
+
+ .about{
+   margin-top: 150px;
+ }
+
+ #readmore-btn{
+   font-size: 15px;
+   padding-left: 30px;
+   padding-right: 30px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+ }
+
+
+
+ .our-gallery{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: Belanosima;
+    margin-top: 100px;
+    margin-bottom: 30px;
+ }
+
+ 
+ .pera2{
+   padding-left: 50px;
+ }
+
+ .p2{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+ }
+ .imges{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr ;
+    margin-left: 50px;
+    margin-right: 50px;
+    gap: 30px;
+
+ }
+
+ .img1-1{
+   
+   
+   
+ }
+
+ 
+ .img1-2{
+   
+    
+ }
+
+ 
+ .img1-3{
+   
+    
+ }
+
+ #seemore-btn{
+   font-size: 15px;
+   padding-left: 30px;
+   padding-right: 30px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   margin-left: 550px;
+   margin-top: 50px;
+ }
+
+ #testimonial{
+   font-family: Belanosima;
+   padding-left: 50px;
+   padding-top: 100px;
+   padding-right: 50px;
+   padding-bottom: 30px;
+   font-size: 50px;
+   font-weight: bold;
+ }
+
+ #pera3{
+   padding-left: 50px;
+ }
+
+ #monial{
+   padding-left: 200px;
+   padding-top: 50px;
+   padding-right: 50px;
+   padding-bottom: 20px;
+   font-weight: bold;
+   font-size: 30px;
+ }
+
+ #pera4{
+   padding-left: 50px;
+   padding-bottom: 100px;
+ }
+ 
+ .fooder{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr ;
+  background-color: rgb(36, 35, 35);
+  color: white;
+  font-weight: bold;
+  width: 100%;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
+ 
+ }
+
+ #about{
+
+font-size: 30px;
+color: white;
+ }
+
+ #menu{
+  
+  font-size: 30px;
+  color: white;
+ }
+
+ #useful{
+  
+  font-size: 30px;
+  color: white;
+ }
+
+ #Contact{
+
+  font-size: 30px;
+  color: white;
+ }
+
+
